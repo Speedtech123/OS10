@@ -20,7 +20,9 @@ else
 fi
 else
  echo "File does not exist"
-fi
+fi   
+
+
 ..........................................
 Create two files: $cat > file1 and $cat > file2
 Run: $sh Lab10.sh file1 file2 
